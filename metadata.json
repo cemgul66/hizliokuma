@@ -1,0 +1,6 @@
+{
+  "name": "30 Günlük Hızlı Okuma Akademisi",
+  "description": "Göz egzersizleri, Schulte tabloları ve anlama testleriyle 30 günde okuma hızınızı ve odaklanmanızı geliştiren interaktif Türkçe hızlı okuma akademisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
